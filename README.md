@@ -2,14 +2,17 @@
 
 **`Student of Computer Science at NOVA School of Science and Technology`**
 
-As a soon-to-be graduate in Computer Science with a passion for software development, I've honed my skills in full-stack development, building a robust foundation in both front-end and back-end technologies. My expertise spans proficiency in HTML/CSS, JavaScript, React, React Native, Node.js, and PostgreSQL.
-
-My primary goal is to develop innovative software solutions that seamlessly blend creativity and functionality. I'm particularly enthusiastic about web development and exploring cutting-edge technologies.
-
-Currently, I'm working on my thesis project - an "Online Tool for Learning Logic" integrated into Moodle - which aims to revolutionize educational technology by providing interactive, adaptive learning experiences in Moodle.
-
+- 🎓 Soon to be a graduate of Computer Science at NOVA School of Science and Technology
+  
+- 🌱 I'm particularly enthusiastic about Web development and exploring cutting-edge technologies
+  
+- 💻 Currently working on my thesis "Online Tool for Learning Logic" integrated into Moodle
+  
+- 💭 My goal is to develop innovative software solutions that seamlessly blend creativity and functionality
+  
+- 🔎 Currently looking for new projects
+<!--  My expertise spans proficiency in HTML/CSS, JavaScript, React, React Native, Node.js, and PostgreSQL -->
 <br/>
-
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mcarolinasf/) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mcarolinasf2001@gmail.com)
